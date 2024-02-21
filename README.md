@@ -1,0 +1,3 @@
+# Practise
+
+Practising git init
